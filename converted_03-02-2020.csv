@@ -1,0 +1,142 @@
+Province/State;Country/Region;Last Update;Confirmed;Deaths;Recovered
+Hubei;Mainland China;2020-03-02T15:03:23;67103;2803;33934
+;South Korea;2020-03-02T20:23:16;4335;28;30
+;Italy;2020-03-02T20:23:16;2036;52;149
+;Iran;2020-03-02T20:23:16;1501;66;291
+Guangdong;Mainland China;2020-03-02T15:03:23;1350;7;1059
+Henan;Mainland China;2020-03-02T11:43:03;1272;22;1205
+Zhejiang;Mainland China;2020-03-02T11:43:03;1206;1;1069
+Hunan;Mainland China;2020-03-02T11:43:03;1018;4;887
+Anhui;Mainland China;2020-03-02T15:03:23;990;6;917
+Jiangxi;Mainland China;2020-03-02T01:33:02;935;1;850
+Shandong;Mainland China;2020-03-02T08:03:12;758;6;460
+Diamond Princess cruise ship;Others;2020-03-02T14:33:03;705;6;10
+Jiangsu;Mainland China;2020-03-02T12:53:02;631;0;543
+Chongqing;Mainland China;2020-03-02T23:23:02;576;6;469
+Sichuan;Mainland China;2020-03-02T15:03:23;538;3;386
+Heilongjiang;Mainland China;2020-03-02T12:53:02;480;13;356
+Beijing;Mainland China;2020-03-02T02:13:16;414;8;282
+Shanghai;Mainland China;2020-03-02T04:03:13;337;3;292
+Hebei;Mainland China;2020-03-02T09:43:05;318;6;296
+Fujian;Mainland China;2020-03-02T12:53:02;296;1;255
+;Japan;2020-03-02T20:33:02;274;6;32
+Guangxi;Mainland China;2020-03-02T12:53:02;252;2;192
+Shaanxi;Mainland China;2020-03-02T08:03:12;245;1;216
+;France;2020-03-02T20:33:02;191;3;12
+Yunnan;Mainland China;2020-03-02T06:23:04;174;2;168
+Hainan;Mainland China;2020-03-02T02:03:18;168;5;151
+;Germany;2020-03-02T20:33:02;159;0;16
+Guizhou;Mainland China;2020-03-02T01:13:06;146;2;114
+Tianjin;Mainland China;2020-03-01T12:43:02;136;3;111
+Shanxi;Mainland China;2020-03-02T23:23:02;133;0;119
+Liaoning;Mainland China;2020-03-01T12:23:06;122;1;103
+;Spain;2020-03-02T14:43:05;120;0;2
+;Singapore;2020-03-02T20:33:02;108;0;78
+Hong Kong;Hong Kong;2020-03-02T23:53:02;100;2;36
+Jilin;Mainland China;2020-03-02T15:03:23;93;1;83
+Gansu;Mainland China;2020-03-02T15:03:23;91;2;85
+Xinjiang;Mainland China;2020-03-02T15:43:31;76;3;66
+Inner Mongolia;Mainland China;2020-03-02T10:23:04;75;0;54
+Ningxia;Mainland China;2020-03-02T01:33:02;74;0;69
+;Kuwait;2020-03-02T20:33:02;56;0;0
+;Bahrain;2020-03-02T20:33:02;49;0;0
+Unassigned Location (From Diamond Princess);US;2020-03-02T19:53:03;45;0;0
+;Thailand;2020-03-02T06:23:04;43;1;31
+;Switzerland;2020-03-02T22:33:09;42;0;0
+Taiwan;Taiwan;2020-03-02T08:03:12;41;1;12
+;UK;2020-03-02T20:33:02;40;0;8
+;Malaysia;2020-03-01T12:53:02;29;0;18
+;Iraq;2020-03-02T20:53:02;26;0;0
+;Norway;2020-03-02T20:53:02;25;0;0
+;United Arab Emirates;2020-02-29T12:33:03;21;0;5
+;Austria;2020-03-02T21:23:04;18;0;0
+Qinghai;Mainland China;2020-02-21T04:43:02;18;0;18
+;Netherlands;2020-03-02T20:53:02;18;0;0
+Toronto, ON;Canada;2020-03-02T20:53:02;17;0;2
+;Vietnam;2020-02-25T08:53:02;16;0;16
+;Sweden;2020-03-02T20:53:02;15;0;0
+King County, WA;US;2020-03-02T20:23:16;14;5;1
+;Lebanon;2020-03-02T20:53:02;13;0;0
+;Israel;2020-03-01T23:23:02;10;0;1
+Macau;Macau;2020-02-27T12:43:02;10;0;8
+Queensland;Australia;2020-02-29T02:03:10;9;0;1
+Victoria;Australia;2020-03-02T00:53:03;9;0;4
+Santa Clara, CA;US;2020-03-02T20:33:02;9;0;1
+;Belgium;2020-03-02T20:53:02;8;0;1
+British Columbia;Canada;2020-02-29T23:23:13;8;0;3
+;San Marino;2020-03-02T01:03:12;8;0;0
+;Croatia;2020-03-01T23:33:03;7;0;0
+;Greece;2020-03-01T23:23:02;7;0;0
+New South Wales;Australia;2020-03-01T23:33:03;6;0;4
+;Ecuador;2020-03-01T23:33:03;6;0;0
+;Finland;2020-03-01T23:23:02;6;0;1
+;Iceland;2020-03-02T22:33:09;6;0;0
+;Oman;2020-02-29T12:33:03;6;0;1
+;India;2020-03-02T22:33:09;5;0;3
+;Mexico;2020-03-01T23:33:03;5;0;0
+;Denmark;2020-03-01T23:33:03;4;0;0
+;Pakistan;2020-02-29T18:03:05;4;0;0
+Cook County, IL;US;2020-03-02T20:33:02;4;0;2
+Snohomish County, WA;US;2020-03-02T20:53:02;4;1;0
+;Algeria;2020-03-02T00:53:03;3;0;0
+South Australia;Australia;2020-02-29T02:03:10;3;0;2
+;Azerbaijan;2020-03-01T02:43:03;3;0;0
+;Czech Republic;2020-03-02T16:33:02;3;0;0
+;Georgia;2020-03-01T15:43:03;3;0;0
+;Philippines;2020-02-12T07:43:02;3;1;1
+;Qatar;2020-03-01T23:33:03;3;0;0
+;Romania;2020-02-28T15:33:03;3;0;0
+;Russia;2020-03-02T21:23:04;3;0;2
+Western Australia;Australia;2020-03-01T02:43:03;2;1;0
+;Brazil;2020-02-29T21:03:05;2;0;0
+;Egypt;2020-03-01T23:33:03;2;0;1
+;Indonesia;2020-03-02T18:03:04;2;0;0
+;Portugal;2020-03-02T22:43:02;2;0;0
+Portland, OR;US;2020-03-02T03:33:08;2;0;0
+Providence, RI;US;2020-03-02T03:43:02;2;0;0
+Sacramento County, CA;US;2020-02-27T20:33:02;2;0;0
+San Benito, CA;US;2020-02-03T03:53:02;2;0;0
+San Diego County, CA;US;2020-02-21T05:43:02;2;0;1
+;Afghanistan;2020-02-24T23:33:02;1;0;0
+;Andorra;2020-03-02T20:23:16;1;0;0
+;Armenia;2020-03-01T19:53:02;1;0;0
+Tasmania;Australia;2020-03-02T20:53:02;1;0;0
+;Belarus;2020-02-28T16:23:03;1;0;0
+;Cambodia;2020-02-12T07:43:02;1;0;1
+ Montreal, QC;Canada;2020-02-28T05:23:07;1;0;0
+London, ON;Canada;2020-02-12T18:53:03;1;0;1
+;Dominican Republic;2020-03-02T16:33:02;1;0;0
+;Estonia;2020-02-27T16:23:03;1;0;0
+;Ireland;2020-03-01T07:13:07;1;0;0
+;Latvia;2020-03-02T20:13:49;1;0;0
+;Lithuania;2020-02-28T16:23:03;1;0;0
+;Luxembourg;2020-03-01T07:13:07;1;0;0
+Tibet;Mainland China;2020-02-12T06:43:02;1;0;1
+;Monaco;2020-02-29T00:33:01;1;0;0
+;Morocco;2020-03-02T22:33:09;1;0;0
+;Nepal;2020-02-12T14:43:03;1;0;1
+;New Zealand;2020-02-28T16:23:03;1;0;0
+;Nigeria;2020-02-28T16:23:03;1;0;0
+;North Macedonia;2020-02-27T16:23:03;1;0;0
+;Saudi Arabia;2020-03-02T23:53:02;1;0;0
+;Senegal;2020-03-02T20:23:16;1;0;0
+;Sri Lanka;2020-02-08T03:43:03;1;0;1
+Boston, MA;US;2020-02-28T21:13:12;1;0;1
+Grafton County, NH;US;2020-03-02T20:33:02;1;0;0
+Hillsborough, FL;US;2020-03-02T03:13:25;1;0;0
+Humboldt County, CA;US;2020-02-21T05:13:09;1;0;0
+Los Angeles, CA;US;2020-02-01T19:53:03;1;0;0
+Madison, WI;US;2020-02-05T21:53:02;1;0;0
+New York City, NY;US;2020-03-02T01:53:03;1;0;0
+Orange, CA;US;2020-02-01T19:53:03;1;0;0
+Placer County, CA;US;2020-03-02T23:53:02;1;0;0
+San Antonio, TX;US;2020-02-13T18:53:02;1;0;0
+San Mateo, CA;US;2020-03-02T20:43:02;1;0;0
+Sarasota, FL;US;2020-03-02T03:23:06;1;0;0
+Sonoma County, CA;US;2020-03-02T20:53:02;1;0;0
+Tempe, AZ;US;2020-02-25T21:23:03;1;0;1
+Umatilla, OR;US;2020-03-02T20:23:16;1;0;0
+From Diamond Princess;Australia;2020-02-29T02:03:10;0;0;0
+Lackland, TX (From Diamond Princess);US;2020-02-24T23:33:02;0;0;0
+Omaha, NE (From Diamond Princess);US;2020-02-24T23:33:02;0;0;0
+Travis, CA (From Diamond Princess);US;2020-02-24T23:33:02;0;0;0

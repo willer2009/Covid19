@@ -1,0 +1,174 @@
+Province/State;Country/Region;Last Update;Confirmed;Deaths;Recovered
+Hubei;Mainland China;2020-03-05T14:53:03;67466;2902;40592
+;South Korea;2020-03-05T09:03:09;6088;35;41
+;Italy;2020-03-05T17:43:03;3858;148;414
+;Iran;2020-03-05T13:43:04;3513;107;739
+Guangdong;Mainland China;2020-03-05T09:23:03;1351;7;1181
+Henan;Mainland China;2020-03-05T01:48:26;1272;22;1239
+Zhejiang;Mainland China;2020-03-05T09:43:03;1215;1;1124
+Hunan;Mainland China;2020-03-05T08:43:03;1018;4;938
+Anhui;Mainland China;2020-03-05T04:33:02;990;6;970
+Jiangxi;Mainland China;2020-03-05T01:16:58;935;1;901
+Shandong;Mainland China;2020-03-05T14:53:03;758;6;578
+Diamond Princess cruise ship;Others;2020-03-03T03:13:06;706;6;10
+Jiangsu;Mainland China;2020-03-05T14:53:03;631;0;583
+Chongqing;Mainland China;2020-03-05T23:23:02;576;6;512
+Sichuan;Mainland China;2020-03-05T14:53:03;539;3;425
+;Germany;2020-03-05T17:43:03;482;0;16
+Heilongjiang;Mainland China;2020-03-05T00:23:06;481;13;379
+Beijing;Mainland China;2020-03-04T23:23:01;418;8;297
+;France;2020-03-05T15:13:22;377;6;12
+;Japan;2020-03-05T13:43:04;360;6;43
+Shanghai;Mainland China;2020-03-05T06:23:06;339;3;303
+Hebei;Mainland China;2020-03-05T14:53:03;318;6;304
+Fujian;Mainland China;2020-03-05T09:33:03;296;1;277
+;Spain;2020-03-05T17:43:03;259;3;2
+Guangxi;Mainland China;2020-03-05T10:03:08;252;2;214
+Shaanxi;Mainland China;2020-03-05T06:03:08;245;1;224
+Yunnan;Mainland China;2020-03-03T03:43:02;174;2;169
+Hainan;Mainland China;2020-03-05T06:13:10;168;6;158
+Guizhou;Mainland China;2020-03-02T01:13:06;146;2;114
+Tianjin;Mainland China;2020-03-05T03:33:27;136;3;128
+Shanxi;Mainland China;2020-03-05T14:53:03;133;0;126
+Liaoning;Mainland China;2020-03-03T14:33:03;125;1;106
+;Singapore;2020-03-05T13:43:04;117;0;78
+;UK;2020-03-05T18:03:03;115;1;8
+;Switzerland;2020-03-05T17:43:03;114;1;3
+Hong Kong;Hong Kong;2020-03-05T00:23:07;105;2;43
+Gansu;Mainland China;2020-03-05T15:13:13;102;2;87
+;Sweden;2020-03-05T18:03:03;94;0;0
+Jilin;Mainland China;2020-03-05T14:53:03;93;1;88
+;Norway;2020-03-05T17:43:03;87;0;0
+;Netherlands;2020-03-05T14:23:03;82;0;0
+Xinjiang;Mainland China;2020-03-05T06:03:08;76;3;70
+Inner Mongolia;Mainland China;2020-03-05T23:53:01;75;1;65
+Ningxia;Mainland China;2020-03-04T01:33:07;75;0;69
+;Kuwait;2020-03-05T13:43:04;58;0;0
+;Bahrain;2020-03-05T13:53:03;55;0;0
+King County, WA;US;2020-03-05T22:03:17;51;10;1
+;Belgium;2020-03-05T13:53:03;50;0;1
+;Malaysia;2020-03-04T13:03:08;50;0;22
+;Thailand;2020-03-05T06:23:06;47;1;31
+Unassigned Location (From Diamond Princess);US;2020-03-02T19:53:03;45;0;0
+Taiwan;Taiwan;2020-03-05T14:53:03;44;1;12
+;Austria;2020-03-05T17:53:02;41;0;0
+;Iraq;2020-03-04T20:43:02;35;2;0
+;Iceland;2020-03-05T13:53:03;34;0;0
+;Greece;2020-03-05T14:23:03;31;0;0
+;India;2020-03-05T13:53:03;30;0;3
+;United Arab Emirates;2020-03-05T23:53:02;29;0;5
+New South Wales;Australia;2020-03-04T20:43:03;22;1;4
+Toronto, ON;Canada;2020-03-05T17:53:03;21;0;2
+;San Marino;2020-03-05T13:53:03;21;1;0
+Santa Clara, CA;US;2020-03-05T22:53:03;20;0;1
+Qinghai;Mainland China;2020-02-21T04:43:02;18;0;18
+Snohomish County, WA;US;2020-03-05T20:23:07;18;1;0
+Westchester County, NY;US;2020-03-05T21:33:03;18;0;0
+;Israel;2020-03-05T17:53:02;16;0;1
+;Lebanon;2020-03-05T17:53:02;16;0;1
+;Oman;2020-03-05T17:53:02;16;0;2
+;Vietnam;2020-02-25T08:53:02;16;0;16
+Queensland;Australia;2020-03-05T17:33:06;13;0;8
+British Columbia;Canada;2020-03-05T04:43:03;13;0;3
+;Ecuador;2020-03-05T17:53:02;13;0;0
+;Algeria;2020-03-04T19:33:03;12;0;0
+;Czech Republic;2020-03-05T17:53:02;12;0;0
+;Finland;2020-03-05T13:53:03;12;0;1
+Los Angeles, CA;US;2020-03-05T21:03:14;11;0;0
+Victoria;Australia;2020-03-05T18:33:03;10;0;7
+;Croatia;2020-03-04T16:53:02;10;0;0
+;Denmark;2020-03-04T00:03:15;10;0;0
+Macau;Macau;2020-03-03T12:33:02;10;0;9
+;Portugal;2020-03-05T13:53:03;8;0;0
+;Qatar;2020-03-04T00:03:15;8;0;0
+;Azerbaijan;2020-03-05T13:53:03;6;0;0
+;Belarus;2020-03-04T12:43:03;6;0;0
+;Ireland;2020-03-04T21:13:07;6;0;0
+;Romania;2020-03-05T06:23:06;6;0;1
+South Australia;Australia;2020-03-04T21:03:07;5;0;2
+;Mexico;2020-03-03T10:03:04;5;0;1
+;Pakistan;2020-03-03T04:33:03;5;0;0
+;Saudi Arabia;2020-03-05T17:53:03;5;0;0
+Cook County, IL;US;2020-03-05T18:33:03;5;0;2
+;Brazil;2020-03-04T20:33:02;4;0;0
+;Chile;2020-03-05T18:13:04;4;0;0
+;Georgia;2020-03-05T13:53:03;4;0;0
+;Palestine;2020-03-05T13:53:03;4;0;0
+;Russia;2020-03-05T13:53:03;4;0;2
+;Senegal;2020-03-04T20:43:02;4;0;0
+New York City, NY;US;2020-03-05T21:03:13;4;0;0
+Western Australia;Australia;2020-03-05T17:13:35;3;1;0
+;Egypt;2020-03-05T13:53:03;3;0;1
+;Estonia;2020-03-05T13:53:03;3;0;0
+;New Zealand;2020-03-04T20:13:11;3;0;0
+;Philippines;2020-02-12T07:43:02;3;1;1
+;Saint Barthelemy;2020-03-04T02:43:03;3;0;0
+Orange County, CA;US;2020-03-04T02:13:11;3;0;0
+San Diego County, CA;US;2020-03-05T20:33:03;3;0;1
+;Bosnia and Herzegovina;2020-03-05T17:13:30;2;0;0
+ Montreal, QC;Canada;2020-03-05T14:03:04;2;0;0
+;Hungary;2020-03-05T17:13:27;2;0;0
+;Indonesia;2020-03-02T18:03:04;2;0;0
+;Morocco;2020-03-05T13:53:03;2;0;0
+;Slovenia;2020-03-05T17:13:30;2;0;0
+Bergen County, NJ;US;2020-03-05T21:03:12;2;0;0
+Fulton County, GA;US;2020-03-03T03:33:02;2;0;0
+Grafton County, NH;US;2020-03-03T23:33:03;2;0;0
+Harris County, TX;US;2020-03-05T21:53:02;2;0;0
+Hillsborough, FL;US;2020-03-03T18:33:02;2;0;0
+Placer County, CA;US;2020-03-04T19:53:02;2;1;0
+Providence, RI;US;2020-03-02T03:43:02;2;0;0
+Sacramento County, CA;US;2020-02-27T20:33:02;2;0;0
+San Benito, CA;US;2020-02-03T03:53:02;2;0;0
+San Francisco County, CA;US;2020-03-05T20:33:03;2;0;0
+San Mateo, CA;US;2020-03-03T00:43:02;2;0;0
+Washington County, OR;US;2020-03-03T03:03:02;2;0;0
+;Afghanistan;2020-02-24T23:33:02;1;0;0
+;Andorra;2020-03-02T20:23:16;1;0;0
+;Argentina;2020-03-04T01:33:07;1;0;0
+;Armenia;2020-03-01T19:53:02;1;0;0
+Northern Territory;Australia;2020-03-04T19:43:02;1;0;0
+Tasmania;Australia;2020-03-02T20:53:02;1;0;0
+;Cambodia;2020-02-12T07:43:02;1;0;1
+London, ON;Canada;2020-02-12T18:53:03;1;0;1
+;Dominican Republic;2020-03-02T16:33:02;1;0;0
+;Faroe Islands;2020-03-04T12:53:03;1;0;0
+;Gibraltar;2020-03-04T13:03:13;1;0;0
+;Jordan;2020-03-03T15:33:02;1;0;0
+;Latvia;2020-03-04T01:33:07;1;0;0
+;Liechtenstein;2020-03-04T01:33:07;1;0;0
+;Lithuania;2020-02-28T16:23:03;1;0;0
+;Luxembourg;2020-03-03T00:23:16;1;0;0
+Tibet;Mainland China;2020-02-12T06:43:02;1;0;1
+;Monaco;2020-02-29T00:33:01;1;0;0
+;Nepal;2020-02-12T14:43:03;1;0;1
+;Nigeria;2020-02-28T16:23:03;1;0;0
+;North Macedonia;2020-02-27T16:23:03;1;0;0
+;Poland;2020-03-04T15:13:18;1;0;0
+;South Africa;2020-03-05T13:53:03;1;0;0
+;Sri Lanka;2020-02-08T03:43:03;1;0;1
+;Tunisia;2020-03-04T01:33:07;1;0;0
+ Norfolk County, MA;US;2020-03-03T14:33:03;1;0;0
+Berkeley, CA;US;2020-03-03T23:53:03;1;0;0
+Boston, MA;US;2020-02-28T21:13:12;1;0;1
+Clark County, NV;US;2020-03-05T20:53:03;1;0;0
+Contra Costa County, CA;US;2020-03-04T04:23:05;1;0;0
+Fort Bend County, TX;US;2020-03-05T01:16:59;1;0;0
+Grant County, WA;US;2020-03-05T20:23:07;1;0;0
+Humboldt County, CA;US;2020-02-21T05:13:09;1;0;0
+Madison, WI;US;2020-03-03T15:53:03;1;0;1
+Maricopa County, AZ;US;2020-03-03T17:33:02;1;0;0
+Queens County, NY;US;2020-03-05T21:43:02;1;0;0
+San Antonio, TX;US;2020-02-13T18:53:02;1;0;0
+Santa Rosa County, FL;US;2020-03-05T20:03:03;1;0;0
+Sarasota, FL;US;2020-03-02T03:23:06;1;0;0
+Sonoma County, CA;US;2020-03-02T20:53:02;1;0;0
+Tempe, AZ;US;2020-02-25T21:23:03;1;0;1
+Umatilla, OR;US;2020-03-02T20:23:16;1;0;0
+Wake County, NC;US;2020-03-03T20:53:02;1;0;0
+Williamson County, TN;US;2020-03-05T23:33:03;1;0;0
+;Ukraine;2020-03-03T15:33:02;1;0;0
+From Diamond Princess;Australia;2020-02-29T02:03:10;0;0;0
+Lackland, TX (From Diamond Princess);US;2020-02-24T23:33:02;0;0;0
+Omaha, NE (From Diamond Princess);US;2020-02-24T23:33:02;0;0;0
+Travis, CA (From Diamond Princess);US;2020-02-24T23:33:02;0;0;0
